@@ -1,16 +1,25 @@
-## Hi there 👋
+### 🔗 Hi, I'm Kasra!
 
-<!--
-**kasramasoomi/kasramasoomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Focus:** Backend Development (Python & Django)
+- 🎓 **Education:** Mechanical Engineering @ University of Tehran
+- 🔭 **Working on:** Web APIs, Automation & Telegram Bots
+- 🛡️ **Interests:** Network Security, Server Infrastructure & Backend Architecture
+- 🌱 **Learning & Exploring:** Scalable Systems & Network Protocols
+- 📫 **Reach me via:** [Telegram](https://t.me/kiamasoomi) | Email: kasramasoomi24@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Kasra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasramasoomi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasramasoomi&layout=compact&theme=tokyonight)
