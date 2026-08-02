@@ -22,6 +22,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kasramasoomi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&line1=python,django,linux&line2=docker,git,bash&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kasramasoomi&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=kasramasoomi&theme=tokyonight" width="49%" />
 </p>
