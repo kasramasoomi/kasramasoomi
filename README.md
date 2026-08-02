@@ -21,5 +21,5 @@
 
 ### 📊 GitHub Stats
 
-![Kasra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasramasoomi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasramasoomi&layout=compact&theme=tokyonight)
+![Kasra's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kasramasoomi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kasramasoomi&layout=compact&theme=tokyonight)
