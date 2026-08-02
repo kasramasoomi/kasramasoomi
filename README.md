@@ -23,5 +23,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kasramasoomi&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=kasramasoomi&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kasramasoomi&layout=donut&theme=tokyonight" width="49%" />
 </p>
