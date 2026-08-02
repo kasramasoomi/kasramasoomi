@@ -22,6 +22,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kasramasoomi&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kasramasoomi&layout=compact&theme=tokyonight&card_width=400" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kasramasoomi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kasramasoomi&theme=tokyonight" />
 </p>
