@@ -1,7 +1,7 @@
 ### 🔗 Hi, I'm Kasra!
 
 - 💻 **Focus:** Backend Development (Python & Django)
-- 🎓 **Education:** Mechanical Engineering @ University of Tehran
+- 🎓 **Education:** Computer Engineering @ University of Tehran
 - 🔭 **Working on:** Web APIs, Automation & Telegram Bots
 - 🛡️ **Interests:** Network Security, Server Infrastructure & Backend Architecture
 - 🌱 **Learning & Exploring:** Scalable Systems & Network Protocols
